@@ -1,0 +1,10 @@
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\bin\Debug\downloadfromftpserver.exe.config
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\bin\Debug\downloadfromftpserver.exe
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\bin\Debug\downloadfromftpserver.pdb
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\obj\Debug\downloadfromftpserver.csprojResolveAssemblyReference.cache
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\obj\Debug\downloadfromftpserver.Form1.resources
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\obj\Debug\downloadfromftpserver.Properties.Resources.resources
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\obj\Debug\downloadfromftpserver.csproj.GenerateResource.cache
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\obj\Debug\downloadfromftpserver.csproj.CoreCompileInputs.cache
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\obj\Debug\downloadfromftpserver.exe
+c:\users\efortes\source\repos\downloadfromftpserver\downloadfromftpserver\obj\Debug\downloadfromftpserver.pdb
